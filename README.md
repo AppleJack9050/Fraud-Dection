@@ -12,3 +12,11 @@ The dataset used in the IEEE-CIS Fraud Detection competition on Kaggle was provi
 More detail: https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
 
 
+ 
+
+The file is too large to upload directly to the github server. Here I provide the way to download the files
+
+Enter the following command in the terminal：
+kaggle competitions download -c ieee-fraud-detection
+
+
